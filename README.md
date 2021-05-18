@@ -1,7 +1,6 @@
 # Suscribe to KP 18 Gamer
 - [Subscribe](https://www.youtube.com/channel/UCo2iuPS4FZ8V6H_ct2F8-2A/featured)
-# Discord-Bot
-200+ commands free open source code of discord bot
+ # Music Bot
 
 ## This bot was made Atreya#0700, do not remove credits or you will have copyright issues.
 ### Make sure to join The servers below:
